@@ -1,1 +1,1 @@
-version 1.0.0
+A Simple React Native dictionary application for web api written in .NET Framework.
